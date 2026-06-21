@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 184" role="img" aria-label="dps Imobiliário">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f4e0a0"/>
+      <stop offset="0.42" stop-color="#d8b25c"/>
+      <stop offset="0.72" stop-color="#b88c38"/>
+      <stop offset="1" stop-color="#eccd7e"/>
+    </linearGradient>
+  </defs>
+  <path d="M205 64 C285 32 355 32 435 64" fill="none" stroke="url(#gold)" stroke-width="5" stroke-linecap="round"/>
+  <text x="320" y="126" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="96" fill="url(#gold)" letter-spacing="-1">dps</text>
+  <text x="320" y="162" text-anchor="middle" font-family="Georgia,serif" font-weight="600" font-size="22" fill="url(#gold)" letter-spacing="8">IMOBILIÁRIO</text>
+</svg>
